@@ -1,6 +1,3 @@
-# Assignmets
-Both assignment 
-
 ## Assignment 1
 Create a responsive HTML5 menu using menu.json, JavaScript and SCSS.
 No images should be used in the creation of the menu.
