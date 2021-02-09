@@ -1,0 +1,19 @@
+{
+	menu: [{
+			label: "Recent",
+			url: "recent.html"
+		},
+		{
+			label: "Genres",
+			url: "genres.html"
+		},
+		{
+			label: "Trending",
+			url: "trending.html"
+		},
+		{
+			label: "Editor's Pick",
+			url: "browse.html"
+		}
+	]
+}
